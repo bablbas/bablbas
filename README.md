@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @bablbas
-- 👀 I’m interested in music,paint,playing games and yes, i`m very love develop games.
-- 🌱 I’m currently learning c#, i`m in 8 class in Russia and go to art school.
-- 💞️ I’m looking to collaborate on one fan game. i`m wanna do katana zero 3d
-- 📫 How to reach me ilya_lipton#7129(discord)
+Yo. I`m bablbas
